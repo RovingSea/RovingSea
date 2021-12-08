@@ -1,3 +1,3 @@
 <div align=left>
-    <img src="https://user-images.githubusercontent.com/69103691/145082350-1a1dd7eb-b07b-44c9-8d36-48ac07e0cc43.gif" alt="校徽" />
+    <img src="https://user-images.githubusercontent.com/69103691/145151850-5f2b6f87-dd7b-4e40-9cae-788c9eed359e.png" alt="校徽" />
 </div>
