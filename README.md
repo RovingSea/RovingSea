@@ -13,9 +13,32 @@
 
 <li>2021.3 - NextGen Laboratory
     
-# Java Stack
+    
+# Technology Stack
+    
+## Computer knowledge
+
+<li>Network
+    
+<li>Operating system
+    
+## Java
 
 <li>Java Virtual Machine
+    
+<li>Multithreading
+    
+<li>Concurrency
+    
+## MiddleWare
+    
+<li>MySQL
+    
+<li>Redis
+    
+<li>Zookeeper
+    
+## Open-source
     
 <li>Spring
     
@@ -23,18 +46,10 @@
     
 <li>Dubbo
     
-<li>MySQL
-    
-<li>Redis
-    
+
+# Recence    
 
     
-    
-    
-    
-    
-<br/>
-<br/>
 <br/> 
 
 <img align="left" height='165px' src="https://github-readme-stats.vercel.app/api?username=1262917629&bg_color=30,B72731,324a88&title_color=fff&text_color=fff">
