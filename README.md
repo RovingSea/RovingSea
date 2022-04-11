@@ -13,38 +13,7 @@
 
 <li>2021.3 - NextGen Laboratory
     
-    
-# Technology Stack
-    
-## Computer knowledge
-
-<li>Network
-    
-<li>Operating system
-    
-## Java
-
-<li>Java Virtual Machine
-    
-<li>Multithreading
-    
-<li>Concurrency
-    
-## Middleware
-    
-<li>MySQL
-    
-<li>Redis
-    
-<li>Zookeeper
-    
-## Open-source
-    
-<li>Spring
-    
-<li>MyBatis
-    
-<li>Dubbo
+<li>2022.3 - Phoenix New Media Java R&D Intern
     
 
 # Recence    
