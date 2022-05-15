@@ -7,13 +7,13 @@
 
 # Introduction
 
-<li>2019.9 - 2020.3 School of mechanical engineering, Changsha University (Before changing major)
+<li>2019.09 - 2020.03 School of mechanical engineering, Changsha University (Before changing major)
     
-<li>2020.3 - 2023.6 School of computer engineering, Changsha University
+<li>2020.03 - 2023.06 School of computer engineering, Changsha University
 
-<li>2021.3 - NextGen Laboratory
+<li>2021.03 - NextGen Laboratory
     
-<li>2022.3 - Phoenix New Media Java R&D Intern
+<li>2022.03 - 2022.05 Phoenix New Media Java R&D Intern
     
 
 # Recence    
