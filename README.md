@@ -11,7 +11,7 @@
     
 <li>2020.03 - 2023.06 School of computer engineering, Changsha University
 
-<li>2021.03 - NextGen Laboratory
+<li>2021.03 - NextGen Lab, School of computer engineering
     
 <li>2022.03 - 2022.05 Phoenix New Media Java R&D Intern
     
