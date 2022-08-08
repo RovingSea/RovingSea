@@ -1,10 +1,3 @@
-<img align="left" height='125px' src="https://s2.loli.net/2021/12/08/915O6BF3eAyHdom.png">
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 # Introduction
 
 <li>2019.09 - 2020.03 School of mechanical engineering, Changsha University (Before changing major)
