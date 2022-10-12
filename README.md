@@ -3,6 +3,14 @@
 <li>📚2019.09 - 2023.06 School of software engineering, Changsha University
 <li>👨‍💻2022.03 - 2022.05 Phoenix New Media Java R&D Intern
 
+### Recency
+<img align="center" height='166px' src="https://github-readme-stats.vercel.app/api?username=RovingSea&bg_color=30,99ff66,339933,339933,33cc33&title_color=fff&text_color=fff">
+
+
+<br />
+<br />
+
+
 ### Learn more about me
 
 <a href="https://leetcode.cn/u/RovingSea/"><img align="left" alt="slideshowp2 | leetcode" width="52px" height="52px"
@@ -10,8 +18,10 @@ src="https://static.leetcode-cn.com/cn-frontendx-assets/production/_next/static/
 <a href="https://space.bilibili.com/36747941"><img align="left" alt="slideshowp2 | bilibili" width="52px" height="52px" src="https://i.mcmod.cn/item/icon/128x128/15/157544.png?v=2" />
 <a href="https://issues.sonatype.org/secure/ViewProfile.jspa?name=RovingSea"><img align="left" alt="slideshowp2 | sonatype" width="52px" height="52px" src="https://avatars.githubusercontent.com/u/44938?s=200&v=4" />
 
+
 <br />
 <br />
+
 
 ### Languages and Tools
 
@@ -38,8 +48,3 @@ src="https://static.leetcode-cn.com/cn-frontendx-assets/production/_next/static/
 
 <br />
 <br />
-
-
-### Recency
-<img align="left" height='165px' src="https://github-readme-stats.vercel.app/api?username=RovingSea&bg_color=30,99ff66,339933,339933,33cc33&title_color=fff&text_color=fff">
-
