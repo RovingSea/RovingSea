@@ -5,7 +5,6 @@
 
 ### Learn more about me
 
-<img align="right" height='165px' src="https://github-readme-stats.vercel.app/api?username=RovingSea&bg_color=30,99ff66,339933,339933,33cc33&title_color=fff&text_color=fff">
 <a href="https://leetcode.cn/u/RovingSea/"><img align="left" alt="slideshowp2 | leetcode" width="52px" height="52px"
 src="https://static.leetcode-cn.com/cn-frontendx-assets/production/_next/static/images/lccn-logo-ce3d56eeedaae618e59e2ec5089e4834.svg" />
 <a href="https://space.bilibili.com/36747941"><img align="left" alt="slideshowp2 | bilibili" width="52px" height="52px" src="https://i.mcmod.cn/item/icon/128x128/15/157544.png?v=2" />
@@ -39,4 +38,6 @@ src="https://static.leetcode-cn.com/cn-frontendx-assets/production/_next/static/
 
 <br />
 
+### Recency
+<img align="left" height='165px' src="https://github-readme-stats.vercel.app/api?username=RovingSea&bg_color=30,99ff66,339933,339933,33cc33&title_color=fff&text_color=fff">
 
