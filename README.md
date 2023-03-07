@@ -51,7 +51,3 @@ src="https://static.leetcode-cn.com/cn-frontendx-assets/production/_next/static/
 <br />
 <br />
 
-### 2022 Goals
-<li>🤓Contribute more to Open Source projects
-<li>💡Apply for an invention patent
-<li>📃Solve 401 Leetcode problems
