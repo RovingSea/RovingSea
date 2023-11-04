@@ -2,6 +2,8 @@
 
 <li>📚2019.09 - 2023.06 School of software engineering, Changsha University
 <li>👨‍💻2022.03 - 2022.05 Phoenix New Media Java R&D Intern
+<li>👨‍💻2022.06 - 2023.09 Zhongan Online Java R&D Intern
+<li>👨‍💻2022.09 -  Zhongan Online Java R&D
 
 ### Recency
 <img align="center" height='166px' src="https://github-readme-stats.vercel.app/api?username=RovingSea&bg_color=30,99ff66,339933,339933,33cc33&title_color=fff&text_color=fff">
